@@ -59,6 +59,8 @@ models/
 *.log
 test_output.parquet
 alerts.log
+result/
+
 
 # Temporary files
 *.tmp
